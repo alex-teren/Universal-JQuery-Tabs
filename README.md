@@ -1,7 +1,7 @@
 # Universal-JQuery-Tabs
-simple JQuery tabs, easy-to-use
+**Simple JQuery tabs, easy-to-use**
 
-You must to include .css and .js files to yout html-page.
+You need to include .css and .js files to yout html-page.
 Simple of HTML code for using tabs (names of classes must be the same):
 
 
