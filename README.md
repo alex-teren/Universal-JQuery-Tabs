@@ -4,6 +4,8 @@ simple JQuery tabs, easy-to-use
 You must to include .css and .js files to yout html-page.
 Simple of HTML code for using tabs (names of classes must be the same):
 
+
+```html
 <div class="tabs">
   <ul class="tabs__caption">
     <li class="active">1st tab</li>
@@ -16,5 +18,6 @@ Simple of HTML code for using tabs (names of classes must be the same):
     Content of second tab
   </div>
 </div>
+```
 
 You can create over 9000 tabs on your page without any conflicts :)
