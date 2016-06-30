@@ -1,0 +1,6 @@
+.tabs__content {
+  display: none; /* hide all blocks by default */
+}
+.tabs__content.active {
+  display: block; /* show needed block by default */
+}
